@@ -1,0 +1,8 @@
+Django==3.2
+gunicorn
+scikit-learn
+pandas
+numpy
+seaborn
+matplotlib
+mglearn
