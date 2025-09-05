@@ -64,7 +64,7 @@ The `GenderPrediction.ipynb` notebook details the following steps:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Siddp278/Voice-Gender.git
+git clone https://github.com/Loksjain/Voice-Gender.git
 cd Voice-Gender-Prediction-code
 ```
 
